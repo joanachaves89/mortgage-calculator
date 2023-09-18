@@ -1,3 +1,22 @@
+# React Mortgage calculator Tutorial for beginners
+
+
+## Objectives
+
+The topics we'll cover while building this project are:
+
+* React Functional Components;
+* Material UI;
+* User Inputs;
+* Handling Props;
+* props destructuring;
+* useState Hook.
+
+
+##
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
