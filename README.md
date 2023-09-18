@@ -1,5 +1,7 @@
 # React Mortgage calculator Tutorial for beginners
 
+![Thumbnail](https://github.com/joanachaves89/mortgage-calculator/blob/main/resources/Screenshot%202023-09-17%20at%2020.57.39.png)
+
 
 ## Objectives
 
